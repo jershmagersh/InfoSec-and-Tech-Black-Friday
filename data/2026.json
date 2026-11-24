@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-22T02:45:04+00:00",
+  "generated": "2026-11-24T19:31:53+00:00",
   "deals": [
     {
       "section": "tools",
@@ -1232,7 +1232,7 @@
       "ends": "2026-11-23",
       "ends_note": null,
       "evergreen": false,
-      "ended": false,
+      "ended": true,
       "focus": null,
       "notes": "Linux laptops and desktops. US customers only.",
       "via": null,

@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**92 active deals** of 92 listed
+**91 active deals** of 92 listed
 
-_Last updated: Nov 21, 2026 18:45 PST_
+_Last updated: Nov 24, 2026 11:31 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -107,7 +107,6 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 | Vendor | Deal | Code | Dates | Notes |
 |---|---|---|---|---|
-| [System76](https://system76.com/) | Up to $257 off selected models | — | Nov 23 | Linux laptops and desktops. US customers only. |
 | [GL.iNet](https://www.gl-inet.com/en-us/pages/early-black-friday) | Up to 20% off routers, Comet remote KVMs and travel routers | — | Nov 19 – Nov 30 | OpenWrt-based routers and remote KVMs. Handy for out-of-band access to lab hardware. |
 | [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 | Pentest and red team gadgets. |
 | [KSEC Labs (UK) and KSEC EU](https://labs.ksec.co.uk/black-friday-sale/) | Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits | — | Nov 23 – Nov 30 | EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov · via [@Kaicastledine](https://github.com/Kaicastledine) |
@@ -118,6 +117,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Zima](https://shop.zimaspace.com/) ✨ | 10-20% off ZimaBoard and ZimaCube, some with free accessories | — | Nov 30 | x86 single-board servers. Good firewall and NAS builds. |
 | [Back Market](https://www.backmarket.com/en-us/e/black-friday) | Discount varies daily, see site | — | Dec 1 | refurb phones and hardware for labs |
 | [Geekom](https://www.geekompc.com/black-friday/) | Discount varies daily, see site | — | Dec 1 | Great compact homelab boxes |
+| ~~[System76](https://system76.com/)~~ | ~~Up to $257 off selected models~~ | — | Ended Nov 23 | Linux laptops and desktops. US customers only. |
 
 ## 3D Printing & Maker
 
